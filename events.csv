@@ -1,0 +1,44 @@
+1,Animal break-in,2,introvert-2
+2,Shelter on Fire,5,aggressive-2 passive_get_sick
+3,Attack from other basecamp,7,extrovert-2 aggressive-1
+4,Person Missing,4,passive-2 depressed-1
+5,Internal Fight,5,alcoholic-2 extrovert-2
+6,Shelter Damaged,3,introvert-2 aggressive-1
+7,Out of Gas,3,sick-2 cold-2
+8,Lack of Food,4,introvert_get_sick tired-2
+9,Broken Fences,6,sick-2 tired-2
+10,Rooftop Leaking,4,aggressive-2
+11,Electricity shortage,5,cold-2 cold_get_alcoholic
+12,Lack of medical,3,sick-2 depressed-3
+13,Flu,6,tired-2 extrovert-2
+14,Robbery,2,tired-1
+15,snow storm,5,alcholic-3
+16,food stolen,4,extrovert_get_sick passive-2
+17,spoiled food,6,introvert-2
+18,poison water,3,sick-1 tired_get_sick
+19,found surviver,5,depressed-2
+20,injured,5,passive-3
+21,out of weapon,4,extrovert-2
+22,internal fight,1,depressed-2
+23,Lack of food,5,alcoholic-2
+24,shelter damaged,4,cold-2
+25,broken fences,3,passive-3
+26,electricity shortage,2,introvert-2
+27,rooftop leaking,6,passive_get_sick
+28,lack of meds,6,sick-1
+29,break in,4,tired-2
+30,attack from other camp,5,alcholic-2
+31,shelter on fire,3,
+32,person missing,2,passive-2
+33,Flu,5,high_AP-1
+34,rob,3,extrovert-2
+35,food stolen,4,
+36,snow storm,2,introvert-2 cold-1
+37,spoiled food,2,introvert-2
+38,found,4,depressed-1
+39,poison,7,alcoholic-1 tired_get_sick
+40,injured,5,passive-2
+41,canibalism,6,tired-1
+42,?,4,aggressive-3
+43,??,5,high_AP-1
+44,???,3,
